@@ -11,3 +11,10 @@
 If you want more about this, Do check out my Article 👇🏻
 
 [**Code-Sample**](https://www.code-sample.com/ "Code-Sample")
+
+# Real-world Enhancements
+- Add Polly for retry, circuit breaker.
+- Use Swagger with API Gateway using tools like SwaggerForOcelot.
+- Integrate logging/tracing (e.g., Serilog + OpenTelemetry).
+- Add Docker/Kubernetes deployment.
+
