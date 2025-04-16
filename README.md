@@ -25,8 +25,6 @@ If you want more about this, Do check out my Article 👇🏻
 
 /CustomerService      → Microservice 1
 
-/OrderService         → Microservice 2
-
 /ProductService       → Microservice 3
 
 Each service runs independently, communicates via REST (or gRPC/event-based in advanced cases).
