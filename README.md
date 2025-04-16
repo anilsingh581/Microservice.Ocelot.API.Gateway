@@ -18,3 +18,12 @@ If you want more about this, Do check out my Article 👇🏻
 - Integrate logging/tracing (e.g., Serilog + OpenTelemetry).
 - Add Docker/Kubernetes deployment.
 
+# Project Structure
+# Example structure:
+
+/ApiGateway           → Ocelot API Gateway
+/CustomerService      → Microservice 1
+/OrderService         → Microservice 2
+/ProductService       → Microservice 3
+Each service runs independently, communicates via REST (or gRPC/event-based in advanced cases).
+
